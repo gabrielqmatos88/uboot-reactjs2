@@ -11,7 +11,8 @@
     "precache-manifest.347e28e73584aadcea578ce4168a32a2.js": "/uboot-reactjs2/precache-manifest.347e28e73584aadcea578ce4168a32a2.js",
     "service-worker.js": "/uboot-reactjs2/service-worker.js",
     "static/css/main.18ed8c03.chunk.css.map": "/uboot-reactjs2/static/css/main.18ed8c03.chunk.css.map",
-    "static/js/2.518af857.chunk.js.LICENSE.txt": "/uboot-reactjs2/static/js/2.518af857.chunk.js.LICENSE.txt"
+    "static/js/2.518af857.chunk.js.LICENSE.txt": "/uboot-reactjs2/static/js/2.518af857.chunk.js.LICENSE.txt",
+    "404.html": "/uboot-reactjs2/404.html"
   },
   "entrypoints": [
     "static/js/runtime-main.a58c2c0e.js",
