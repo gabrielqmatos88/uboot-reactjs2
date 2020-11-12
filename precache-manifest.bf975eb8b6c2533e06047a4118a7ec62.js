@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8550d5530f9ea5cf1bc58132bc0b860",
+    "revision": "eaa517fd40efad1901c4fa35cc3b5507",
     "url": "/uboot-reactjs2/index.html"
   },
   {
