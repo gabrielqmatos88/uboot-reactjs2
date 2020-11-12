@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1cf216c68622ec1704fb2e3abc8ca482",
+    "revision": "47e9b76c8d8e7c315192e775001b9888",
     "url": "/uboot-reactjs2/index.html"
   },
   {
-    "revision": "64bebf34e92c3cc3e317",
+    "revision": "052c73bfd3bf240d64b8",
     "url": "/uboot-reactjs2/static/css/main.18ed8c03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uboot-reactjs2/static/js/2.518af857.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "64bebf34e92c3cc3e317",
-    "url": "/uboot-reactjs2/static/js/main.979680f9.chunk.js"
+    "revision": "052c73bfd3bf240d64b8",
+    "url": "/uboot-reactjs2/static/js/main.7b4942e6.chunk.js"
   },
   {
     "revision": "045c606a756f03a4454e",
