@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/uboot-reactjs2/static/css/main.58de3b5c.chunk.css",
-    "main.js": "/uboot-reactjs2/static/js/main.105d785d.chunk.js",
-    "main.js.map": "/uboot-reactjs2/static/js/main.105d785d.chunk.js.map",
+    "main.js": "/uboot-reactjs2/static/js/main.6a4dc4e2.chunk.js",
+    "main.js.map": "/uboot-reactjs2/static/js/main.6a4dc4e2.chunk.js.map",
     "runtime-main.js": "/uboot-reactjs2/static/js/runtime-main.a58c2c0e.js",
     "runtime-main.js.map": "/uboot-reactjs2/static/js/runtime-main.a58c2c0e.js.map",
-    "static/js/2.ba8bbc1d.chunk.js": "/uboot-reactjs2/static/js/2.ba8bbc1d.chunk.js",
-    "static/js/2.ba8bbc1d.chunk.js.map": "/uboot-reactjs2/static/js/2.ba8bbc1d.chunk.js.map",
+    "static/js/2.caf59e28.chunk.js": "/uboot-reactjs2/static/js/2.caf59e28.chunk.js",
+    "static/js/2.caf59e28.chunk.js.map": "/uboot-reactjs2/static/js/2.caf59e28.chunk.js.map",
     "index.html": "/uboot-reactjs2/index.html",
-    "precache-manifest.820fbc60b61328c4257112d5b7874797.js": "/uboot-reactjs2/precache-manifest.820fbc60b61328c4257112d5b7874797.js",
+    "precache-manifest.b4e1c1615c77400fb250a552e78c9ded.js": "/uboot-reactjs2/precache-manifest.b4e1c1615c77400fb250a552e78c9ded.js",
     "service-worker.js": "/uboot-reactjs2/service-worker.js",
     "static/css/main.58de3b5c.chunk.css.map": "/uboot-reactjs2/static/css/main.58de3b5c.chunk.css.map",
-    "static/js/2.ba8bbc1d.chunk.js.LICENSE.txt": "/uboot-reactjs2/static/js/2.ba8bbc1d.chunk.js.LICENSE.txt",
+    "static/js/2.caf59e28.chunk.js.LICENSE.txt": "/uboot-reactjs2/static/js/2.caf59e28.chunk.js.LICENSE.txt",
     "404.html": "/404.html"
   },
   "entrypoints": [
     "static/js/runtime-main.a58c2c0e.js",
-    "static/js/2.ba8bbc1d.chunk.js",
+    "static/js/2.caf59e28.chunk.js",
     "static/css/main.58de3b5c.chunk.css",
-    "static/js/main.105d785d.chunk.js"
+    "static/js/main.6a4dc4e2.chunk.js"
   ]
 }
