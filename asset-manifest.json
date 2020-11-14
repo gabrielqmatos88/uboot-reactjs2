@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/uboot-reactjs2/static/css/main.d8b936c9.chunk.css",
-    "main.js": "/uboot-reactjs2/static/js/main.e3132b9a.chunk.js",
-    "main.js.map": "/uboot-reactjs2/static/js/main.e3132b9a.chunk.js.map",
+    "main.js": "/uboot-reactjs2/static/js/main.95e761e3.chunk.js",
+    "main.js.map": "/uboot-reactjs2/static/js/main.95e761e3.chunk.js.map",
     "runtime-main.js": "/uboot-reactjs2/static/js/runtime-main.a58c2c0e.js",
     "runtime-main.js.map": "/uboot-reactjs2/static/js/runtime-main.a58c2c0e.js.map",
     "static/js/2.0806099a.chunk.js": "/uboot-reactjs2/static/js/2.0806099a.chunk.js",
     "static/js/2.0806099a.chunk.js.map": "/uboot-reactjs2/static/js/2.0806099a.chunk.js.map",
     "index.html": "/uboot-reactjs2/index.html",
-    "precache-manifest.1e279543098f708d1895da5165b0967d.js": "/uboot-reactjs2/precache-manifest.1e279543098f708d1895da5165b0967d.js",
+    "precache-manifest.b3eb3568af33265d614a675ae2d6fde5.js": "/uboot-reactjs2/precache-manifest.b3eb3568af33265d614a675ae2d6fde5.js",
     "service-worker.js": "/uboot-reactjs2/service-worker.js",
     "static/css/main.d8b936c9.chunk.css.map": "/uboot-reactjs2/static/css/main.d8b936c9.chunk.css.map",
     "static/js/2.0806099a.chunk.js.LICENSE.txt": "/uboot-reactjs2/static/js/2.0806099a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a58c2c0e.js",
     "static/js/2.0806099a.chunk.js",
     "static/css/main.d8b936c9.chunk.css",
-    "static/js/main.e3132b9a.chunk.js"
+    "static/js/main.95e761e3.chunk.js"
   ]
 }
