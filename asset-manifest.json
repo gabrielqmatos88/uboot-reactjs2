@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/uboot-reactjs2/static/css/main.d8b936c9.chunk.css",
-    "main.js": "/uboot-reactjs2/static/js/main.2c6f2c68.chunk.js",
-    "main.js.map": "/uboot-reactjs2/static/js/main.2c6f2c68.chunk.js.map",
-    "runtime-main.js": "/uboot-reactjs2/static/js/runtime-main.a58c2c0e.js",
-    "runtime-main.js.map": "/uboot-reactjs2/static/js/runtime-main.a58c2c0e.js.map",
-    "static/js/2.0806099a.chunk.js": "/uboot-reactjs2/static/js/2.0806099a.chunk.js",
-    "static/js/2.0806099a.chunk.js.map": "/uboot-reactjs2/static/js/2.0806099a.chunk.js.map",
-    "index.html": "/uboot-reactjs2/index.html",
-    "precache-manifest.91cef10e0b41641b3980cde8ceb0a9ef.js": "/uboot-reactjs2/precache-manifest.91cef10e0b41641b3980cde8ceb0a9ef.js",
-    "service-worker.js": "/uboot-reactjs2/service-worker.js",
-    "static/css/main.d8b936c9.chunk.css.map": "/uboot-reactjs2/static/css/main.d8b936c9.chunk.css.map",
-    "static/js/2.0806099a.chunk.js.LICENSE.txt": "/uboot-reactjs2/static/js/2.0806099a.chunk.js.LICENSE.txt",
+    "main.css": "/gabrielqmatos88/uboot-reactjs2/static/css/main.d8b936c9.chunk.css",
+    "main.js": "/gabrielqmatos88/uboot-reactjs2/static/js/main.defe56b5.chunk.js",
+    "main.js.map": "/gabrielqmatos88/uboot-reactjs2/static/js/main.defe56b5.chunk.js.map",
+    "runtime-main.js": "/gabrielqmatos88/uboot-reactjs2/static/js/runtime-main.44ea216d.js",
+    "runtime-main.js.map": "/gabrielqmatos88/uboot-reactjs2/static/js/runtime-main.44ea216d.js.map",
+    "static/js/2.0806099a.chunk.js": "/gabrielqmatos88/uboot-reactjs2/static/js/2.0806099a.chunk.js",
+    "static/js/2.0806099a.chunk.js.map": "/gabrielqmatos88/uboot-reactjs2/static/js/2.0806099a.chunk.js.map",
+    "index.html": "/gabrielqmatos88/uboot-reactjs2/index.html",
+    "precache-manifest.c0e81f2594268a5965e4e007a1582f1d.js": "/gabrielqmatos88/uboot-reactjs2/precache-manifest.c0e81f2594268a5965e4e007a1582f1d.js",
+    "service-worker.js": "/gabrielqmatos88/uboot-reactjs2/service-worker.js",
+    "static/css/main.d8b936c9.chunk.css.map": "/gabrielqmatos88/uboot-reactjs2/static/css/main.d8b936c9.chunk.css.map",
+    "static/js/2.0806099a.chunk.js.LICENSE.txt": "/gabrielqmatos88/uboot-reactjs2/static/js/2.0806099a.chunk.js.LICENSE.txt",
     "404.html": "/404.html"
   },
   "entrypoints": [
-    "static/js/runtime-main.a58c2c0e.js",
+    "static/js/runtime-main.44ea216d.js",
     "static/js/2.0806099a.chunk.js",
     "static/css/main.d8b936c9.chunk.css",
-    "static/js/main.2c6f2c68.chunk.js"
+    "static/js/main.defe56b5.chunk.js"
   ]
 }
